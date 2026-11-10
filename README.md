@@ -235,3 +235,6 @@ Feedstock Maintainers
 * [@ffrancois-inria](https://github.com/ffrancois-inria/)
 * [@stan-borkowski](https://github.com/stan-borkowski/)
 
+
+<!-- dummy commit to enable rerendering -->
+
